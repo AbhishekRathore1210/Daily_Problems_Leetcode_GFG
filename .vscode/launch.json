@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/GFG_POTD",
-      "program": "c:/Users/Acer/OneDrive - Lovely Professional University/Desktop/GFG_POTD/build/Debug/outDebug",
+      "cwd": ".",
+      "program": "build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
